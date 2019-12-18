@@ -2,7 +2,7 @@ terraform {
   backend "s3" {
     region = "ap-northeast-2"
     bucket = "terraform-sre-skc3-state"
-    key    = "bastion.tfstate"
+    key    = "eks.tfstate"
   }
   required_version = ">= 0.12"
 }

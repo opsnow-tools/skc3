@@ -24,7 +24,7 @@ module "bastion" {
 
   vpc_id = "vpc-0dd816cc3ad0a97d4"
 
-  subnet_id = "subnet-00dbcc360d373e40d"
+  subnet_id = "subnet-0c4fa2402902d70f3"
 
   # ami_id = ""
   type = "t2.micro"

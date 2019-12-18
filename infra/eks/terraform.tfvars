@@ -73,7 +73,7 @@ map_users = [
 ]
 
 # 소유한 도메인 네임으로 변경해야 함!!!
-root_domain = "skc3.opswnow.com"
+root_domain = "opswnow.io"
 
 # 가중치 기반 라우팅 정책, 1~255 사이의 값 설정 가능
 # https://docs.aws.amazon.com/ko_kr/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-weighted

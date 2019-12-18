@@ -61,7 +61,7 @@ on_demand_base = "0"
 on_demand_rate = "0"
 
 # 쿠버네티스 워크 노드(EC2) 접속용 키페어 이름, 미리 생성해 두어야 함!!!
-key_name = "fast-track-key-pair-name"
+key_name = "SEOUL-SRE-SKC3-EKS"
 
 # AWS 계정을 본인 계정으로 변경해야 함!!! 
 map_users = [

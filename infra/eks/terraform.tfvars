@@ -49,8 +49,8 @@ instance_type = "m5.large"
 mixed_instances = ["m4.large", "r4.large", "r5.large"]
 
 volume_size = "64"
-min = "1"
-max = "3"
+min = "3"
+max = "5"
 
 # 쿠버네티스 워크노드에 대한 오토스케일링 그룹 설정, 온 디멘드 EC2 갯수 설정
 # Absolute minimum amount of desired capacity that must be fulfilled by on-demand instances.
